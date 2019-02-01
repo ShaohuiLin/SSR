@@ -7,12 +7,11 @@ we propose a novel filter pruning scheme, termed structured sparsity regularizat
 If you find our project useful in your research, please consider citing:
 
 ```
-@article{lin2018holistic,
-  title={Holistic CNN Compression via Low-rank Decomposition with Knowledge Transfer},
-  author={Lin, Shaohui and Ji, Rongrong and Chen, Chao and Tao, Dacheng and Luo, Jiebo},
-  journal={IEEE transactions on pattern analysis and machine intelligence},
-  year={2018},
-  publisher={IEEE}
+@article{lin2019towards,
+  title={Towards Compact ConvNets via Structure-Sparsity Regularized Filter Pruning},
+  author={Lin, Shaohui and Ji, Rongrong and Li, Yuchao and Deng, Cheng and Li, Xuelong},
+  journal={arXiv preprint arXiv:1901.07827},
+  year={2019}
 }
 ```
 
