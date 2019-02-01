@@ -3,6 +3,19 @@ structured sparsity regularization
 
 we propose a novel filter pruning scheme, termed structured sparsity regularization (SSR), to simultaneously speedup the computation and reduce the memory overhead of CNN, which can be well supported by various off-the-shelf deep learning libraries.
 
+## Citation
+If you find our project useful in your research, please consider citing:
+
+```
+@article{lin2018holistic,
+  title={Holistic CNN Compression via Low-rank Decomposition with Knowledge Transfer},
+  author={Lin, Shaohui and Ji, Rongrong and Chen, Chao and Tao, Dacheng and Luo, Jiebo},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  year={2018},
+  publisher={IEEE}
+}
+```
+
 ## Running
 
 #### 1. download dataset (mnist)
