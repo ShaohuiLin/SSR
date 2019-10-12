@@ -10,7 +10,7 @@ import numpy as np
 from six.moves import urllib
 import tensorflow as tf
 
-from datasets import dataset_utils
+import dataset_utils
 
 # The URLs where the MNIST data can be downloaded.
 _DATA_URL = 'http://yann.lecun.com/exdb/mnist/'
